@@ -1,0 +1,5 @@
+producer:
+  producer_principal: CN=shivam,OU=dev,O=company,L=blr,ST=ka,C=IN
+
+consumer:
+  consumer_principal: CN=shivam,OU=dev,O=company,L=blr,ST=ka,C=IN
