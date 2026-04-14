@@ -1,0 +1,9 @@
+producers:
+- producer_principal: C=AUH,ST=News Southe Walees,L=Sydneewsy,O=COM,OU=abc,CN=xyz
+  producer_ci: CI1234567898
+- producer_principal_common_name_prefix: events.BDA
+  producer_ci: CI1234567896
+consumers:
+- consumer_principal: C=AUH,ST=News Southe Walees,L=Sydneewsy,O=COM,OU=abc,CN=ghj
+  consumer_ci: CI8457329860
+- consumer_principal_common_name_prefix: abc.xyz
