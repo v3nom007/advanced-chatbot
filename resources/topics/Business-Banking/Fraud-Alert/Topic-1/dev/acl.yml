@@ -7,3 +7,4 @@ consumers:
 - consumer_principal: C=AUH,ST=News Southe Walees,L=Sydneewsy,O=COM,OU=abc,CN=ghj
   consumer_ci: CI8457329860
 - consumer_principal_common_name_prefix: abc.xyz
+  consumer_ci: CI8457329860
