@@ -1,0 +1,6 @@
+cluster: MSK
+topic_configs:
+  partitions: 8
+  retention_days: 1
+  retention_storage: 2
+  cleanup_policy: delete
